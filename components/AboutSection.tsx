@@ -3,6 +3,7 @@ import Image from "next/image"
 
 const skills = [
   { skill: "Figma" },
+  { skill: "Webflow" },
   { skill: "HTML" },
   { skill: "CSS" },
   { skill: "Framer" },
